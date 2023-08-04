@@ -1,3 +1,3 @@
 export const environments = {
-  baseUrl: 'https://daniel-arias.com/api'
+  baseUrl: 'https://heroes-api-r36x.onrender.com'
 }
